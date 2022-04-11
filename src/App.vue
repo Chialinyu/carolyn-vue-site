@@ -20,6 +20,10 @@ import HelloWorld from '@/components/HelloWorld.vue'
   <RouterView />
 </template>
 
+<style lang="sass">
+
+</style>
+
 <style>
 @import '@/assets/base.css';
 
